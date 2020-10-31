@@ -1,3 +1,3 @@
 # Custom VGK Token
 
-![alt](./multi-currency/VGK-token.png?raw=true 'VGK')
+![Alt text](multi-currency/VGK-token.png?raw=true 'VGK')
